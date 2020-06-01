@@ -1,1 +1,1 @@
-sdasd
+print("Hello world!")
